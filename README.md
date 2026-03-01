@@ -12,5 +12,7 @@
 
 <p>Lista de exercicios feita em C# - matéria de Laboratório Desenvolvimento De Software</p>
 
+<p>Feita por <a href="https://github.com/otav1n">@otav1n</a> , <a href="https://github.com/LuizzSilva">@LuizzSilva</a> e <a href="https://github.com/Gabriel-S-Mendes">@Gabriel-S-Mendes</a> </p>
+
 
 </div>
